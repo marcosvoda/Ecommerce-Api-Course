@@ -1,3 +1,3 @@
 # Ecommerce Api Course
  
-## LinkedIn Learning Course v2
+## LinkedIn Learning Course
